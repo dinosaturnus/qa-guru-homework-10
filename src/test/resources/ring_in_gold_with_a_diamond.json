@@ -1,0 +1,23 @@
+{
+  "name": "Кольцо из золота с бриллиантом",
+  "productArticle": 1012564,
+  "material": "Red gold 585",
+  "weightInGrams": "0.76",
+  "sizeInMillimeters": [
+    "15.5",
+    "16",
+    "17",
+    "18.5",
+    "19.5"
+  ],
+  "available": true,
+  "fullDescription": {
+    "brand": "SOKOLOV",
+    "paymentTypes": [
+      "Картой онлайн",
+      "Рассрочка от Сбера",
+      "Оплата при получении"
+    ],
+    "assurance": "Гарантия 6 месяцев"
+  }
+}
